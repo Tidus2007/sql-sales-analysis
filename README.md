@@ -38,12 +38,6 @@ This project was inspired by an analysis shared on LinkedIn:
 
 ---
 
-## 📁 Files
-
-* `dia3_relatorio_vendas.sql` → Contains all queries used in the analysis
-
----
-
 ## 🚀 Objective
 
 To practice SQL for data analysis and demonstrate the ability to extract meaningful insights without relying on pre-built dashboards.
